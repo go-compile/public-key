@@ -1,2 +1,22 @@
-# public-key
-My PGP key for verification purposes and secure communication
+# Public-key
+
+My PGP key for verification purposes and secure communication.
+Fingerprint: 628B:769B:FD00:7F82:33FD:AD18:53F4:922E:9D54:97B8
+
+Public key:
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEYd7dGBYJKwYBBAHaRw8BAQdAYpfZj7X2Y25XL8nNYSNsQPSUcBoedIWa1zqq
+O+lboxi0OWdvLWNvbXBpbGUgPDk3NjA5MTMzK2dvLWNvbXBpbGVAdXNlcnMubm9y
+ZXBseS5naXRodWIuY29tPoiaBBMWCgBCFiEEYot2m/0Af4Iz/a0YU/SSLp1Ul7gF
+AmHe3RgCGwMFCQeEzgAFCwkIBwIDIgIBBhUKCQgLAgQWAgMBAh4HAheAAAoJEFP0
+ki6dVJe4dM0BAMqoNwEqVkvsMIwWydI39Lp5uv6rDltXChtsHHVDYSXzAP4q5sxm
+1LD794NTtEbYNFjDMpPg1O7LTI97PBcf4vLZDLg4BGHe3RgSCisGAQQBl1UBBQEB
+B0BVqnhdxuT354NEqeGdZMNtx6O2Bqb2lx6NjhVtjDCCJAMBCAeIfgQYFgoAJhYh
+BGKLdpv9AH+CM/2tGFP0ki6dVJe4BQJh3t0YAhsMBQkHhM4AAAoJEFP0ki6dVJe4
+wL4BAJz+HslukPgrEgJ8edbh2wzF3ayFDm8gY889Zc1m6DsrAQDpQzaPmoY2GkZ9
+UK03aYdpAfvsMgrWGM9cuXAhramUCg==
+=WWZK
+-----END PGP PUBLIC KEY BLOCK-----
+```
